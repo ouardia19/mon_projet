@@ -2,7 +2,7 @@
 
 /* Modifier la couleur du message "Hello World" dans index.html */
 h1 {
-    color: green; /* Changer la couleur en bleu */
+    color: red; /* Changer la couleur en bleu */
 }
 
 
