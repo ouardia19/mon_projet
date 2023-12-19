@@ -1,1 +1,15 @@
-h1 { color: red; }
+/* ligne.css */
+
+/* Modifier la couleur du message "Hello World" dans index.html */
+h1 {
+    color: green; /* Changer la couleur en bleu */
+}
+
+
+
+
+.ligne-graphique{
+  border-top: 2px solid #000;
+  margin: 20px 0;
+}
+
