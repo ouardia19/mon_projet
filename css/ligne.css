@@ -2,14 +2,15 @@
 
 /* Modifier la couleur du message "Hello World" dans index.html */
 h1 {
-<<<<<<< HEAD
+
     color: red; /* Changer la couleur en bleu */
-=======
-    color: blue; /* Changer la couleur en bleu */
->>>>>>> css_v2
+
 }
 
+.copyright{
+ color: white;
 
+}
 
 
 .ligne-graphique{
