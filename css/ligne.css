@@ -2,7 +2,11 @@
 
 /* Modifier la couleur du message "Hello World" dans index.html */
 h1 {
+<<<<<<< HEAD
     color: red; /* Changer la couleur en bleu */
+=======
+    color: blue; /* Changer la couleur en bleu */
+>>>>>>> css_v2
 }
 
 
@@ -13,3 +17,10 @@ h1 {
   margin: 20px 0;
 }
 
+/* Ajout/modification dans ligne.css sur la branche css_v2 */
+.menu {
+    background-color: #c0ffee; /* Vert pâle */
+    color: white;
+    padding: 10px; /* Exemple de modification */
+    border-radius: 5px; /* Exemple de modification */
+}
